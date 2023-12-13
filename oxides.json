@@ -1,0 +1,79 @@
+{
+    "None": "None",
+    "CaCO3": {
+        "index": 1,
+        "molar_mass": 100.0894
+    },
+    "WO3": {
+        "index": 1,
+        "molar_mass": 231.8482
+    },
+    "Ga2O3": {
+        "index": 2,
+        "molar_mass": 187.4382
+    },
+    "Gd2O3": {
+        "index": 2,
+        "molar_mass": 362.4982
+    },
+    "Al2O3": {
+        "index": 2,
+        "molar_mass": 101.9612
+    },
+    "CeO2": {
+        "index": 1,
+        "molar_mass": 172.1188
+    },
+    "Y2O3": {
+        "index": 2,
+        "molar_mass": 225.8082
+    },
+    "Tb4O7": {
+        "index": 4,
+        "molar_mass": 747.6918
+    },
+    "MgO": {
+        "index": 1,
+        "molar_mass": 40.3044
+    },
+    "Sc2O3": {
+        "index": 2,
+        "molar_mass": 137.9102
+    },
+    "ZrO2": {
+        "index": 1,
+        "molar_mass": 123.2188
+    },
+    "Nd2O3": {
+        "index": 2,
+        "molar_mass": 336.4782
+    },
+    "Nb2O5": {
+        "index": 2,
+        "molar_mass": 265.809
+    },
+    "Lu2O3": {
+        "index": 2,
+        "molar_mass": 397.9382
+    },
+    "Pr2O3": {
+        "index": 2,
+        "molar_mass": 329.8122
+    },
+    "SiO2": {
+        "index": 1,
+        "molar_mass": 60.0848
+    },
+    "La2O3": {
+        "index": 2,
+        "molar_mass": 325.8182
+    },
+    "Ta2O5": {
+        "index": 2,
+        "molar_mass": 441.893
+    },
+    "Li2CO3": {
+        "index": 2,
+        "molar_mass": 73.89
+    }
+}
