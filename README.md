@@ -12,11 +12,11 @@
 
 1. ### Clone the repository:
 ```
-git clone git@github.com:Svetlana-Zimina/Crystallization.git
+git clone https://github.com/Svetlana-Zimina/Crystallization.git
 ```
 
 2. ### Run the file Crystallization.exe
 
-## Авторы
-Светлана Зимина
+## Author
+Svetlana Zimina
 https://github.com/Svetlana-Zimina

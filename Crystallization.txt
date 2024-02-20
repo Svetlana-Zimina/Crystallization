@@ -1,0 +1,16 @@
+Crystal: Ca1W1O4
+
+Crucible diametr, cm: 8
+
+Crucible hight, cm: 8
+
+Melt density, g/cm3: 5.8
+
+Сalculated mass of the crystal, g:  2331.1360
+
+
+Masses of oxides: 
+
+Tb4O7 - 1513.3763 g
+
+Sc2O3 - 558.2782 g
