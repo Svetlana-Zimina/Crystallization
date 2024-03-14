@@ -654,7 +654,7 @@ class Ui_MainWindow(object):
         self.label_elem_5.setText(_translate("MainWindow", "Element 5"))
         self.label_index_8.setText(_translate("MainWindow", "Elem 8 index"))
         self.label_index_9.setText(_translate("MainWindow", "Elem 9 index"))
-        self.label_index_10.setText(_translate("MainWindow", "Elem 5 index"))
+        self.label_index_10.setText(_translate("MainWindow", "Elem 10 index"))
         self.label_3.setText(_translate("MainWindow", "Enter melt density, g/cm3:"))
         self.label_28.setText(_translate("MainWindow", "Oxide 1"))
         self.label_31.setText(_translate("MainWindow", "Oxide 4"))
